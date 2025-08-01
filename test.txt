@@ -1,1 +1,2 @@
 Hello Git from LOCAL!
+Hello Git from REMOTE!
